@@ -1,0 +1,7 @@
+PIL/_imaging.cp35-win_amd64.pyd
+PIL/_imagingcms.cp35-win_amd64.pyd
+PIL/_imagingft.cp35-win_amd64.pyd
+PIL/_imagingmath.cp35-win_amd64.pyd
+PIL/_imagingmorph.cp35-win_amd64.pyd
+PIL/_imagingtk.cp35-win_amd64.pyd
+PIL/_webp.cp35-win_amd64.pyd

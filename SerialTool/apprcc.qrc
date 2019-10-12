@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>icon/close.ico</file>
+    <file>icon/Left2.png</file>
+    <file>icon/Right1.png</file>
+    <file>icon/Right2.png</file>
+    <file>icon/Left1.png</file>
+  </qresource>
+</RCC>

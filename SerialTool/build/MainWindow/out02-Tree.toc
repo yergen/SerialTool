@@ -1,0 +1,5 @@
+('C:\\Users\\Administrator\\Desktop\\comTool\\SerialTool\\build\\MainWindow\\pillow-4.3.0-py3.5-win-amd64.egg',
+ None,
+ {'*.pyd', '*.pyc', '*.py', 'EGG-INFO', '*.pyo', '*.so'},
+ 'DATA',
+ [])
